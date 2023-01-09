@@ -43,5 +43,5 @@ INSERT INTO olympic_games VALUES(37,'Handball', 'Nikola Karabatic', 'South Afric
 INSERT INTO olympic_games VALUES(38,'Football', 'Joseph Brady', 'George Cooke',9,36,5,'Silver',18,463926);
 INSERT INTO olympic_games VALUES(39,'Badminton', 'Goh V Shem', 'Malaysia',4,37,4,'Bronz',17,582753);
 INSERT INTO olympic_games VALUES(40,'Boxing', 'Georgi Kostadinov', 'Bulgaria',2,38,3,'Gold',16,1078786);
-
+SELECT count(*) FROM olympic_games;
 
