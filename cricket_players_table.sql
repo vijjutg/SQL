@@ -55,12 +55,6 @@ INSERT INTO players VALUES(47,'Poonam Yadav',31,'Yes','FeMale',268,162,124,137.5
 INSERT INTO players VALUES(48,'Cheteshwar Pujara',34,'Yes','Male',143,74,37,137.6,'Right',1.73,74,38,3,2);
 INSERT INTO players VALUES(49,'Mithali Raj',40,'Yes','FeMale',274,127,123,174.7,'Left',1.55,73,32,6,4);
 INSERT INTO players VALUES(50,'Sanju Samson',28,'No','Male',156,103,23,176.85,'Right',1.76,69,25,1,0);
-
-
-
-
-
-
-
+commit;
 
 
